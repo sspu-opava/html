@@ -1,0 +1,53 @@
+body {
+    padding-top: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Oswald', sans-serif;
+}
+
+.navbar-header {
+	height: 100px;
+}
+
+.navbar-toggle {
+	background-color: gray;
+}
+
+.navbar-toggle .icon-bar {
+    border: 1px solid white;
+}
+
+.navbar-right {
+	background-color: #eee;
+}
+
+.carousel-caption {
+	background-color: rgba(255,255,255,0.5);
+}
+
+#myCarousel.container {
+	padding: 0;
+}
+
+h1.page-header {
+	margin: 10px 0;
+    padding: 40px 0 20px;
+    color: #999;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: bold;
+    border-bottom: 1px solid #eee;
+}
+
+h2 {
+    text-transform: uppercase;
+	color: rgb(0,61,86);	
+}
+
+
+.well {
+	font-size: 20px;
+}
